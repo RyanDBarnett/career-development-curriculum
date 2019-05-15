@@ -24,7 +24,7 @@
 - [X] No grammatical or spelling errors
 - [ ] Section for skills learning/interested in (optional)
 - [ ] If for a specific position, skills are tailored accordingly
-- [ ] Skills do not include hobbies or other extraneous details
+- [X] Skills do not include hobbies or other extraneous details
 
 ## Projects
 - [X] At least 3 projects are listed
@@ -32,9 +32,9 @@
 - [ ] Technologies, frameworks, testing suite, etc. are all listed as bullet points
 - [X] 1-2 sentences of a brief description of the project is provided as a high level overview of what the project is and how it works
 - [X] Active link to project repository with a visual cue that it's a link
-- [ ] Active link to deployed application with a visual cue that it's a link
-- [ ] Links should go to student's own version of repo and not their project partner's, if applicable
-- [ ] No grammatical or spelling errors
+- [X] Active link to deployed application with a visual cue that it's a link
+- [X] Links should go to student's own version of repo and not their project partner's, if applicable
+- [X] No grammatical or spelling errors
 
 ## Experience
 - [X] Turing is listed either here or under Education
@@ -46,7 +46,7 @@
 ## Education
 - [X] Turing is listed either here or under Experience
 - [X] Brief description of area of study or skills that can relate to software development or specific job applying to
-- [ ] No grammatical or spelling errors
+- [X] No grammatical or spelling errors
 
 ## Layout
 - [X] Clean, easy-to-follow
