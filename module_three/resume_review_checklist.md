@@ -51,7 +51,7 @@
 ## Layout
 - [X] Clean, easy-to-follow
 - [X] If color is used, it is easy to read and distinguish all parts of the resume 
-- [ ] Printable version
+- [X] Printable version
 - [X] No photo
 - [X] No extraneous details/sections
 - [X] Resume is only one page
